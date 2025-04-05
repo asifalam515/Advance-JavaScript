@@ -6,4 +6,6 @@ function outer() {
   };
 }
 const ans = outer();
-console.log(ans());
+ans();
+ans();
+ans();
